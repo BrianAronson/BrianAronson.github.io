@@ -1,0 +1,55 @@
+
+.navbar {
+    font-size: 20px;
+}
+.navbar-brand {
+    font-size: 20px;
+}
+.title {
+  font-size: 21px;
+  text-align: center;
+  font-weight: 800;
+}
+h2 {
+  font-size: 18px;
+  text-align: center;
+  font-weight: 400;
+  margin-left:50px; 
+  margin-right:50px;
+}
+h3 {
+  font-size: 18px;
+  font-weight: 400;
+  margin-left:50px; 
+  margin-right:50px;
+}
+h4 {
+  font-size: 18px;
+  font-weight: 400;
+  margin-left:50px; 
+  margin-right:50px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+img {
+    display: block;
+    margin: auto;
+}
+
+img-circle {
+    border-radius: 50%;
+}
+ul {
+    font-size: 20px;
+  font-weight: 400;
+  margin-left:50px; 
+  margin-right:50px;
+}
+
+p {
+  font-size: 18px;
+}
